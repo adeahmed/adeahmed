@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Operating Systems:
+![Linux](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/macos-000000?logo=macos&logoColor=white) 
